@@ -1,1 +1,2 @@
 # Smart-cart-System
+Developed an intelligent customer segmentation system for an e-commerce platform using clustering algorithms like K-Means to identify distinct customer groups based on spending patterns, activity levels, and demographics. The system helps optimize marketing strategies, detect high-value customers, and identify churn risks.
